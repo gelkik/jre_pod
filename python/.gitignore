@@ -1,1 +1,10 @@
 .env
+*.mp3
+*.wav
+*.pt
+*.bin
+node_modules/
+build/
+.venv/
+__pycache__/
+*.log
